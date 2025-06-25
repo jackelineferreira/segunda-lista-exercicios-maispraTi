@@ -44,15 +44,6 @@ cd exercicios
 node exercicio01.js
 Repita esse processo para qualquer um dos exercícios.
 
-## **📁 Estrutura de Pastas**
-exercicios/
-├── exercicio01.js
-├── exercicio02.js
-├── exercicio03.js
-├── ...
-└── exercicio50.js
-
-
 ## ✅ Exercícios Resolvidos
 
 | Nº   | Título do Exercício               | Tema Principal            |
@@ -101,11 +92,9 @@ Os exercícios foram escritos em JavaScript puro, utilizando o ambiente Node.js.
 
 O terminal Bash foi utilizado para execução dos scripts no VSCode.
 
-Todos os arquivos incluem comentários explicativos para facilitar o aprendizado.
-
 Você pode modificar os scripts para testar novas ideias e reforçar o conteúdo.
 
-## **📚 Autor**
+## **📚**
 Jackeline Ferreira
 Estudante da T1 - Dev. Full Stack Jr. (+PraTi & Codifica Edu)
 Contato: [LinkedIn](http://www.linkedin.com/in/jackeline-ferreira-pontes)
