@@ -26,8 +26,8 @@ node -v
 ## **⚙️ Instalação**
 
 Clone este repositório:
-git clone https://github.com/seu-usuario/lista-exercicios-js.git
-cd lista-exercicios-js
+git clone https://github.com/jackelineferreira/segunda-lista-exercicios-maispraTi.git
+cd segunda-lista-exercicios-maispraTi
 
 
 Instale a dependência opcional:
@@ -108,7 +108,7 @@ Você pode modificar os scripts para testar novas ideias e reforçar o conteúdo
 ## **📚 Autor**
 Jackeline Ferreira
 Estudante da T1 - Dev. Full Stack Jr. (+PraTi & Codifica Edu)
-Contato: LinkedIn
+Contato: [LinkedIn](http://www.linkedin.com/in/jackeline-ferreira-pontes)
 
 ## ** 🧠 Inspiração**
 Este projeto foi criado com o intuito de reforçar e aplicar, na prática, os conceitos fundamentais aprendidos durante o curso +PraTi & Codifica Edu.
